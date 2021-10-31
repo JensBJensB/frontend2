@@ -3,15 +3,15 @@ HTML &amp; CSS
 
 
 Ordagrant säger uppgiften varannat item, vilket borde vara:
-<h3> Zelda (röd)
+<li> h3 Zelda (röd)
 <li> Anju 5M (grön)
 <li> Marin (röd)
 <li> Beedle 621k (grön)
-<h3> Monkey Island (röd)
+h3 Monkey Island (röd)
 etc.
 
 Har ev. gjort fel om pseudo "nth-child" skall användas. Inte läst på dem ännu så får bli denna lösnigen istället.
-<h3> röd <il> grön.
+h3 röd il grön.
   
 -------------------
   
